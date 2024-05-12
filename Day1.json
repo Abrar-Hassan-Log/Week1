@@ -1,0 +1,75 @@
+{
+  "day": 1,
+  "topic": "Introduction to English Grammar",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Welcome to the One unit of our English learning journey. Today, we'll explore the Present Continuous, expressed as 'I am doing.'"
+    },
+    {
+      "title": "Definition",
+      "content": "This tense is crucial in understanding actions that are happening right now or temporarily in the present. Let's dive into the key concepts together"
+    },
+    {
+      "title": "Formation",
+      "content": "The Present Continuous tense is formed by combining the subject with the appropriate form of the verb 'to' 'be' (am/is/are) and the present participle (verb + -ing).",
+      "points": [
+        "I am studying",
+        "She is working",
+        "They are playing."
+      ]
+    },
+    {
+      "title": "Usage",
+      "content": "Completed Actions: Describe actions that happened and concluded in the past.",
+      "points": [
+        "I am writing a letter.",
+        "Temporary Actions: Express temporary actions that are not typical behavior.",
+        "He is staying with us this week",
+        "Emphasizing Duration: Use the tense to emphasize the duration of an action.",
+        "We are studying all night for the exam."
+      ]
+    },
+    {
+      "title": "Examples",
+      "content": "Actions Happening Now: Use the Present Continuous to describe actions occurring at the moment of speaking",
+      "examples": [
+        {
+          "Positive": "She is reading a book",
+          "Negative": "They are not watching TV",
+          "Interrogative": "Are you studying for the exam?"
+        }
+      ]
+    },
+    {
+      "title": "Time Expression",
+      "content": "Understanding time expressions is crucial for placing actions in the past.",
+      "points": [
+        "Now",
+        "At the moment",
+        "Currently",
+        "Today"
+      ]
+    },
+    {
+      "title": "Common Mistakes",
+      "content": "Let's address some common mistakes",
+      "points": [
+        "Incorrect:I am studying since morning.",
+        "Correct: I have been studying since morning."
+      ]
+    },
+    {
+      "title": "Recap and Summary:",
+      "content": "In summary, the Present Continuous tense helps us express actions in progress in the present. Practice using it to convey ongoing activities effectively. Remember the key formation and usage principles we discussed today."
+    },
+    {
+      "title": "Additional Resources:",
+      "content": "For additional practice and reinforcement, consider exploring online exercises or reference materials such as 'English Grammar in Use' by Raymond Murphy."
+    },
+    {
+      "title": "Conclusion",
+      "content": "Thank you for participating in today's lesson on the Present Continuous tense. If you have any questions or need further clarification, feel free to reach out. Happy learning!"
+    }
+  ]
+}
